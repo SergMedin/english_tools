@@ -30,11 +30,13 @@ QUESTIONS = {
 
     'ed': {
         'd': [
-            'turned', 'described', 'complained', 'remained', 'played', 'lived', 'died', 'entered'
+            'turned', 'described', 'complained', 'remained', 'played', 'lived', 'died', 'entered',
+            'recognized', 'realized', 
         ],
 
         't': [
-            'asked', 'faked', 'watched', 'cooked', 'kicked', 'washed'
+            'asked', 'faked', 'watched', 'cooked', 'kicked', 'washed',
+            'impressed',
         ],
 
         'id': [
