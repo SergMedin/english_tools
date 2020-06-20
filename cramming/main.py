@@ -32,15 +32,18 @@ QUESTIONS = {
         'd': [
             'turned', 'described', 'complained', 'remained', 'played', 'lived', 'died', 'entered',
             'recognized', 'realized', 
+            'revised', 'proved', 'agreed',
         ],
 
         't': [
             'asked', 'faked', 'watched', 'cooked', 'kicked', 'washed',
             'impressed',
+            'watched'
         ],
 
         'id': [
-            'painted', 'coincided', 'concluded', 'exaggerated'
+            'painted', 'coincided', 'concluded', 'exaggerated',
+            'invented',
         ]
 
     },
@@ -62,7 +65,38 @@ QUESTIONS = {
                 'actions which started in the past, continued to the present and are still in progress, or have just finished',
                 'visible consequences'
             ]
-    }    
+    },
+
+    'Continuous vs non-Continuous verbs': {
+        'Continues':
+            [
+                'write', 'run', 'move', 'climb', 'read', 'slip', 'ski',
+                'sleep', 'stand', 'try', 'dance', 'go', 'walk', 'listen',
+                'paint', 'eat',
+            ],
+        'non-Continuous':
+            [
+                'like', 'want', 'need', 'prefer',
+                'know', 'realise', 'suppose', 'mean', 'understand', 'believe', 'remember',
+                'belong', 'fit', 'contain', 'consist', 'seem',
+                'see', 'hear', 'consist of'
+            ],
+    },
+
+    'nouns: Countable/Uncountable': {
+        'Countable':
+            [
+                'fork', 'experiment', 'job (на двух работах)', 'mistake', 'manual', 'scientist', 'language', 'dentist',
+                'accident', 'frog', 'course', 'garden', 'bed', 'notebook', 'chair', 'bacteria',
+                'month', 'meal', 'bank'
+            ],
+        'Uncountable':
+            [
+                'reading', 'work (много работы)', 'information', 'knowledge', 'money', 'rice', 'electricity', 'sand',
+                'music', 'accommodation', 'advice', 'damage', 'behaviour', 'bread',
+                'furniture', 'luck', 'news', 'traffic', 'weather', 'safety', 'chaos', 'food'
+            ]
+    },
 }
 
 QUESTION_NUM_LIMIT = 100
