@@ -92,7 +92,18 @@ QUESTIONS = {
                 'reading', 'work (много работы)', 'information', 'knowledge', 'money', 'rice', 'electricity', 'sand',
                 'music', 'accommodation', 'advice', 'damage', 'behaviour', 'bread',
                 'furniture', 'luck', 'news', 'traffic', 'weather', 'safety', 'chaos', 'food'
-            ]
+            ],
+    },
+
+    'Gerund vs Infinitive': {
+        'Gerund': [
+                'fancy', 'admit', 'avoid', 'deny', 'dislike', 'enjoy', 'feel like finish', 'hate', 'keep', 'like', 'love',
+                'mind', 'miss', 'practise', 'prefer', 'recommend', 'spend time', 'stop', 'suggest', 'give up', 'go on'
+            ],
+        'Infinitive (can\'t)': [
+                'afford', 'agree', 'decide', 'expect', 'forget', 'help', 'hope', 'learn', 'need', 'offer', 'plan', 'pretend',
+                'promise', 'refuse', 'remember', 'seem', 'try', 'want', 'would like'
+            ],
     },
 }
 
